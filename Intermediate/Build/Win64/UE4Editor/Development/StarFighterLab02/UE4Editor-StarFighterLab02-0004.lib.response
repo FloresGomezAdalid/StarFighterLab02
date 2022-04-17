@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-StarFighterLab02-0004.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\StarFighterLab02Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\Paddle.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\PaddlePlayerController.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\StarFighterLab02.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\StarFighterLab02GameModeBase.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\Paddle.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\PaddlePlayerController.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\StarFighterLab02.init.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\StarFighterLab02GameModeBase.gen.cpp.obj"
+"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\Default.rc2.res"
+/OUT:"C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\UE4Editor-StarFighterLab02-0004.lib"

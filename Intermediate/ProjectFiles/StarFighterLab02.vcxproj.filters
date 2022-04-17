@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StarFighterLab02.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{AEC34FBA-1CC4-4CCF-BC09-CAEF5423525B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StarFighterLab02.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StarFighterLab02Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6800BA22-2207-4204-A5D7-CD0A285992C0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StarFighterLab02">
+      <UniqueIdentifier>{89F8DC2D-F655-4BB2-B5D3-07ADBEF60C40}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StarFighterLab02\Paddle.cpp">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighterLab02\Paddle.h">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighterLab02\PaddlePlayerController.cpp">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighterLab02\PaddlePlayerController.h">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighterLab02\PaPlayerController.cpp">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighterLab02\PaPlayerController.h">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StarFighterLab02\StarFighterLab02.Build.cs">
+      <Filter>Source\StarFighterLab02</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StarFighterLab02\StarFighterLab02.cpp">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighterLab02\StarFighterLab02.h">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StarFighterLab02\StarFighterLab02GameModeBase.cpp">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StarFighterLab02\StarFighterLab02GameModeBase.h">
+      <Filter>Source\StarFighterLab02</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

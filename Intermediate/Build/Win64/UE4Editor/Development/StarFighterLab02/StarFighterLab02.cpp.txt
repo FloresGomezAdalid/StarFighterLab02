@@ -1,0 +1,2 @@
+C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\Definitions.StarFighterLab02.h
+C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Source\StarFighterLab02\StarFighterLab02.h

@@ -1,0 +1,5 @@
+C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Development\StarFighterLab02\Definitions.StarFighterLab02.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Source\StarFighterLab02/Paddle.h
+C:\Mis documentos\Documents\Unreal Projects\StarFighterLab02\Intermediate\Build\Win64\UE4Editor\Inc\StarFighterLab02\Paddle.generated.h
